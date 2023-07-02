@@ -16,10 +16,10 @@ To run the application locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repository_url>
+```bash
+git clone <repository_url>
 
-   ```
+```
 
 2. Navigate to the project directory:
 
