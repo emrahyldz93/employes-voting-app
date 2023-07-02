@@ -9,8 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mantine/core": "6.0.2",
+    "graphql": "^16.7.1",
     "next": "13.4.7",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "styled-components": "^6.0.0-rc.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2"
   }
 }
