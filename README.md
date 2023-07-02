@@ -23,15 +23,21 @@ To run the application locally, follow these steps:
 
 2. Navigate to the project directory:
 
+```
 cd employees-voting-app
+```
 
 3. Install the dependencies:
 
+```
 npm install
+```
 
 4. run:
 
+```
 npm run dev
+```
 
 5. Open your browser and visit http://localhost:3000 to view the application.
 
@@ -41,11 +47,15 @@ To deploy the application using Docker, make sure you have Docker installed on y
 
 1. Build the Docker image:
 
+```
 docker build -t employes-voting-app .
+```
 
 2. Run the Docker container:
 
+```
 docker run -p 3000:3000 employes-voting-app
+```
 
 The application will be accessible at http://localhost:3000.
 
